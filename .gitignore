@@ -480,4 +480,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-.pdf
+
+# Materiais pessoais/didáticos não versionados neste repositório
+/pdf/
+/relatorios/
